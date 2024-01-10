@@ -133,4 +133,4 @@ dist
 .vercel
 
 #google keys
-keys.js
+dev.js
